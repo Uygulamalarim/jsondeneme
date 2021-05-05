@@ -1,0 +1,28 @@
+{
+"yemekler":[
+
+	{ 
+	"yemek_id":1,
+	"yemek_adi":"Sarma",
+	"yemek_aciklama":"Turk yemegi",
+	"yemek_tur":"Ana",
+	"yemek_pisirme_suresi":"80",
+	"yemek_hazirlama_suresi":"70"
+	},
+	{ 
+	"yemek_id":2,
+	"yemek_adi":"Mantı",
+	"yemek_aciklama":"Turk yemegi",
+	"yemek_tur":"Ana",
+	"yemek_pisirme_suresi":"70",
+	"yemek_hazirlama_suresi":"40"
+	},
+                { 
+	"yemek_id":3,
+	"yemek_adi":"Kurabiye",
+	"yemek_aciklama":"Ingiltere",
+	"yemek_tur":"Yan",
+	"yemek_pisirme_suresi":"40",
+	"yemek_hazirlama_suresi":"30"
+	}
+]}
